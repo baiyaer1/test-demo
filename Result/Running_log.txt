@@ -1,0 +1,2 @@
+Running_log	user.self	sys.self	elapsed
+Run successfully	2.16	0.5	2.80000000000109
